@@ -1,4 +1,4 @@
-version: '3'
+`version: '3'
 services:
   db:
     image: mysql:5.7
@@ -27,4 +27,4 @@ services:
     depends_on:
       - db
 volumes:
-  db_data:
+  db_data:`
