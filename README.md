@@ -20,7 +20,7 @@ docker push johnsmith/todo-server:latest
 4. Create a Docker Compose file:
 Create a file named "docker-compose.yml" in the root directory of your project and add the following code:
 
-[Click Here](file/Docker Compose file.txt)
+[Click Here](file/Docker Compose file.txt).
 
 *Replace <docker_username>, <image_name>, <tag_name>, <google_client_id>, <google_client_secret>, <facebook_client_id>, <facebook_client_secret>, <github_client_id>, and <github_client_secret> with the actual values. For example:*
 
