@@ -3,7 +3,7 @@
 
 2. Then, run the following command to build the Docker image:
 
-docker build -t <docker_username>/<image_name>:<tag_name>
+copy-code-block docker build -t <docker_username>/<image_name>:<tag_name>
 
 *Replace <docker_username>, <image_name>, and <tag_name> with the actual values. For example:*
 
@@ -15,7 +15,7 @@ docker push <docker_username>/<image_name>:<tag_name>
 
 *Replace <docker_username>, <image_name>, and <tag_name> with the actual values. For example:*
 
-docker push johnsmith/todo-server:latest
+docker push johnsmith/todo-server:latest 
 
 4. Create a Docker Compose file:
 Create a file named "docker-compose.yml" in the root directory of your project and add the following code:
