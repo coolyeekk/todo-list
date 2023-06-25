@@ -1,5 +1,5 @@
 # Instuction for running the app
-1. To run the app, you will need to create a unit tests using JUnit and replace <access_token> with the actual access token and http://host:port/api_path with the actual URL of your API.
+1. To run the app, you will need to go ```src/test/java/ks/todolist2/TodoItemControllerTest.java``` that using JUnit and replace <access_token> with the actual access token and http://host:port/api_path with the actual URL of your API.
 
 2. Then, run the following command to build the Docker image:
 
