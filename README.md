@@ -30,7 +30,7 @@ Create a file named "docker-compose.yml" in the root directory of your project a
 
      [Click Here](file/Docker_Compose_file.txt)
 
-    *Replace <docker_username>, <image_name>, <tag_name>, <google_client_id>, <google_client_secret>, <facebook_client_id>, <facebook_client_secret>, <github_client_id>, and <github_client_secret> with the actual values. For example:* 
+ >    *Replace <docker_username>, <image_name>, <tag_name>, <google_client_id>, <google_client_secret>, <facebook_client_id>, <facebook_client_secret>, <github_client_id>, and <github_client_secret> with the actual values. For example:* 
    
    [Click Here](file/example_of_Docker_Compose_file.txt)
 
