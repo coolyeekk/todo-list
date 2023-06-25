@@ -3,7 +3,7 @@
 
 2. Then, run the following command to build the Docker image:
 
-copy-code-block docker build -t <docker_username>/<image_name>:<tag_name>
+```docker build -t <docker_username>/<image_name>:<tag_name>```
 
 *Replace <docker_username>, <image_name>, and <tag_name> with the actual values. For example:*
 
